@@ -1,0 +1,213 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="">
+   <![endif]-->
+   <!--[if IE 7]>
+   <html class="no-js lt-ie9 lt-ie8" lang="">
+      <![endif]-->
+      <!--[if IE 8]>
+      <html class="no-js lt-ie9" lang="">
+         <![endif]-->
+         <!--[if gt IE 8]><!-->
+         <html class="no-js" lang="en">
+            <!--<![endif]-->
+            <head>
+               <meta charset="utf-8">
+               <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+               <title>Habbo - Mache Freunde, habe Spaß und mache dich beliebt</title>
+               <link rel='shortcut icon' type='image/x-icon' href='/favicon.png' />
+               <link rel="canonical" href="https://habbo.st/" />
+               <meta name="identifier-url" content="https://habbo.st" />
+               <meta name="reply-to" content="admin@habbo.st" />
+               <meta property="og:site_name" content="Habbo" />
+               <meta property="og:title" content="Habbo - Mache Freunde, habe Spaß und mache dich beliebt" />
+               <meta property="og:url" content="https://habbo.st" />
+               <meta property="og:description" content="" />
+               <meta property="og:image" content='' />
+               <meta name="description" content="" />
+               <meta name="keywords" content="">
+               <meta name="rccount" content="{USER_COUNT_ONLINE}">
+               <meta name="staff_api" content="https://habbo.st/api?load=retrocase">
+               <script type="application/ld+json">
+                  { "@context": "http://schema.org",
+                    "@type": "Organization",
+                    "name": "Rise",
+                    "url": "https://habbo.st",
+                    "logo": "",
+                    "sameAs": ["https://twitter.com/OfficialHabboST"]
+                  }
+               </script>
+               <meta name="viewport" content="width=1366, height=768">
+               <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.2/normalize.min.css" />
+               <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+               <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" />
+               <link rel="stylesheet" href="/public/css/index_fresh/flexslider.css">
+               <link rel="stylesheet" href="/public/css/index_fresh/styles.css">
+               <link rel="stylesheet" href="/public/css/index_fresh/queries.css">
+               <link rel="stylesheet" href="/public/css/index_fresh/finaly_fix11.css">
+               <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+               <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.css" />
+               <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+               <style>
+                  .hero {
+                  url(/public/css/index_fresh/1490614175-8633.png) bottom no-repeat,url(/public/css/index_fresh/1494768661-2158.png) 107% 69% no-repeat,url(/public/css/index_fresh/1490700825-8654.png) no-repeat right,url(/public/css/index_fresh/1490614175-5576.png),url(/public/css/index_fresh/1494782757-231.png) center #31708f;
+                  min-height: 574px;
+                  background-size: 100% 134px,1024px,78%,1px,cover;
+                  }
+               </style>
+            </head>
+            <body id="top">
+               <!--[if lt IE 8]>
+               <p class="browserupgrade">Please upgrade your browser.</p>
+               <![endif]-->
+               <section class="hero">
+                  <section class="navigation">
+                     <header>
+                        <div class="header-content">
+                           <div class="logo" id="div_36a8_0"><a href="#top"><img src="/public/css/index_fresh/sprite.0d9b1bc3.png" alt="Habbo"></a></div>
+                           <div class="header-nav" id="div_36a8_1">
+						   
+						   						   
+                              <form action="index" method="post" name="index" class="form-inline signup-form mobile_login">
+                                 <div class="form-input-group" id="div_3ed7_0">
+                                    <i class="fa fa-user"></i><input type="text" class="pseudonymeadow" onblur="changeAvatar(this.value);" placeholder="Habbo Username" tabindex="1" name="username" required="" id="input_3ed7_0" autofocus>
+                                 </div>
+                                 <div id="imager" onclick="document.getElementById('input_3ed7_0').focus(); return false;"></div>
+                                 <div class="form-input-group" id="div_3ed7_1">
+                                    <i class="fa fa-lock"></i><input type="password" placeholder="Passwort" tabindex="2" required="" name="password" style="    border-radius: 3px;">
+                                 </div>
+                                 <button type="submit" name="submit" class="btn-fill sign-up-btn" id="button_3ed7_0">LOS GEHT'S!</button>
+                              </form>
+                           </div>
+                           <div class="navicon">
+                              <a class="nav-toggle" href="#connexion"><span></span></a>
+                           </div>
+                        </div>
+                     </header>
+                  </section>
+                  <div class="container">
+                     <div class="row">
+                        <div class="col-md-9">
+                           <div class="hero-content text-left">
+                              <div class="heading__description__wrapper" id="div_3bf7_0">
+                                 <h3 class="heading__description__container" id="h3_3bf7_0"><span class="heading__description">Entdecke eine neue Welt ...</span></h3>
+                              </div>
+                              <div class="heading__description__wrapper">
+                                 <h3 class="heading__description__container"><span class="heading__description">Ein virtuelles Hotel, wo deiner Kreativit&auml;t keine Grenzen gesetzt sind. Hier bei Habbo kannst du mit Freunden abh&auml;ngen, Haustiere pflegen und ber&uuml;hmt werden.</span></h3>
+                              </div>
+                              <a href="/register" id="ordi_message" class="btn btn-fill btn-large btn-margin-right ordi_msg" style="animation: shake 4.15s cubic-bezier(.36,.07,.19,.97) 2s both infinite;">Jetzt registrieren!</a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </section>
+               <section class="intro section-padding" style="padding: 12px 0 41px;background: #fff;">
+                  <div class="container" style="    padding-top: 23px;">
+                     <div class="row">
+                        <div class="col-md-4 intro-feature">
+                           <div class="intro-icon" style="
+                              background: url(/public/css/index_fresh/appartement_text.png) center center no-repeat #31708f;
+                              width: 61px;
+                              height: 61px;
+                              border: 2px solid #2c6480;
+                              "></div>
+                           <div class="intro-content">
+                              <h5>Mehr als ein Spiel!</h5>
+                              <p>Verschiedene Avatare, R&auml;ume, Menschen, M&ouml;bel, Funktionen.. die Liste wird l&auml;nger und l&auml;nger. Habbo bietet dir sehr viel Spa&szlig;! </p>
+                           </div>
+                        </div>
+                        <div class="col-md-4 intro-feature">
+                           <div class="intro-icon" style="
+                              background: url(/public/css/index_fresh/siege_text.png) center center no-repeat #31708f;
+                              width: 61px;
+                              height: 61px;
+                              border: 2px solid #2c6480;
+                              "></div>
+                           <div class="intro-content">
+                              <h5>Spiele kostenlos, f&uuml;r immer!</h5>
+                              <p>Habbo ist ein kostenloses Onlinespiel. Spiele mit deinen Freunden, baue tolle R&auml;ume und nehme an Events teil - ohne etwas daf&uuml;r zu bezahlen!</p>
+                           </div>
+                        </div>
+                        <div class="col-md-4 intro-feature">
+                           <div class="intro-icon" style="
+                              background: url(/public/css/index_fresh/constru_text.png) center center no-repeat #31708f;
+                              width: 61px;
+                              height: 61px;
+                              border: 2px solid #2c6480;
+                              "></div>
+                           <div class="intro-content last">
+                              <h5>Immer da um zu helfen</h5>
+                              <p>Das Hotel wird 24/7 von unserer Moderation &uuml;berwacht. Deine Sicherheit ist das A und O. Auf uns kannst du dich verlassen!</p>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </section>
+               <script data-cfasync="false" src="/cdn-cgi/scripts/d07b1474/cloudflare-static/email-decode.min.js"></script><script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+               <script type="text/javascript" src="/web/js/global_fix_2.js"></script>
+               <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.min.js"></script>
+               <script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+               <script src="https://cdnjs.cloudflare.com/ajax/libs/retina.js/2.1.0/retina.min.js"></script>
+               <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.pack.js"></script>
+               <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+               <script src="/public/css/index_fresh/scripts.js"></script>
+               <script src="/public/css/index_fresh/finaly_fix2.js"></script>
+               <script src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.5.0/jquery.flexslider.min.js"></script>
+               <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/3.1.1/jquery.waypoints.min.js"></script>
+            </body>
+         </html>
+		 
+<!-- PopAds.net Popunder Code for habbo.st -->
+<script type="text/javascript" data-cfasync="false">
+/*<![CDATA[/* */
+  var _pop = _pop || [];
+  _pop.push(['siteId', 2668587]);
+  _pop.push(['minBid', 0]);
+  _pop.push(['popundersPerIP', 0]);
+  _pop.push(['delayBetween', 0]);
+  _pop.push(['default', false]);
+  _pop.push(['defaultPerDay', 0]);
+  _pop.push(['topmostLayer', false]);
+  (function() {
+    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
+    var s = document.getElementsByTagName('script')[0]; 
+    pa.src = '//c1.popads.net/pop.js';
+    pa.onerror = function() {
+      var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true;
+      sa.src = '//c2.popads.net/pop.js';
+      s.parentNode.insertBefore(sa, s);
+    };
+    s.parentNode.insertBefore(pa, s);
+  })();
+/*]]>/* */
+</script>
+<!-- PopAds.net Popunder Code End -->
+
+<!-- Start Cookie Plugin -->
+<script type="text/javascript">
+  window.cookieconsent_options = {
+  message: 'Habbo benutzt leckere Cookies um dir die beste Funktionalität bieten zu können.',
+  dismiss: 'Lecker!',
+  learnMore: 'Mehr Infos',
+  link: 'https://website-tutor.com/datenschutz',
+  theme: 'light-floating'
+ };
+</script>
+<script type="text/javascript" src="//s3.amazonaws.com/valao-cloud/cookie-hinweis/script-v2.js"></script>
+<!-- Ende Cookie Plugin -->
+
+
+         <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/59fbb328198bd56b8c0390fd/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
