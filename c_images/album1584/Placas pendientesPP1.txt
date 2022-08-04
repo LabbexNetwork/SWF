@@ -1,0 +1,32 @@
+Arreglar texto:
+badge_name_ANDRES1=Cumpleaños de MOD-Andres
+badge_desc_ANDRES1=¡El Hotel estuvo de fiesta!
+badge_name_CEVFUEN=[CEV] La fuente
+badge_desc_CEVFUEN=¡Que linda fuente he hecho!
+
+Placas nuevas:
+badge_name_CEVPAYASO=[CEV] Payaso
+badge_desc_CEVPAYASO=Que terror de payaso
+badge_name_CEVCE=[CEV] El cementerio
+badge_desc_CEVCE=¡Qué escalofríos!
+badge_name_SETR=Concurso III y VI
+badge_desc_SETR=Semana especial de terror
+badge_name_HMV27=Banco calavera
+badge_desc_HMV27=Demostré que soy bueno ahorrando.
+badge_name_SAW4=Saw Noviembre
+badge_desc_SAW4=Soy el campeón
+badge_name_SAW5=Saw Diciembre
+badge_desc_SAW5=Soy el Campeón
+
+Sólo cambiar la placa: HMV18
+
+badge_name_ALIZ39=Grim, el segador
+badge_desc_ALIZ39= Sobreviví al Grim
+badge_name_ALIZ40=The walking dead
+badge_desc_ALIZ40=Este Hobbaween no me comió un zombie
+badge_name_ALIZ41=El libro de la vida
+badge_desc_ALIZ41=Con la catrina mi sala ganó
+badge_name_ALIZ42=La casita del horror
+badge_desc_ALIZ42=Yo salí con vida
+badge_name_GAM251=El gran cubo
+badge_desc_GAM251=Fui uno de los ganadores

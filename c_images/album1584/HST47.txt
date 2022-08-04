@@ -1,0 +1,2 @@
+badge_name_HST47=Brasil 2014
+badge_desc_HST47=En LU se celebra a lo grande el Mundial

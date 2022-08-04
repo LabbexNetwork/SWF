@@ -1,0 +1,14 @@
+badge_name_VIII=Reto III Verano
+badge_desc_VIII=He logrado pasar agua y arena
+badge_name_VIV=Reto IV Verano
+badge_desc_VIV=Disfrutando de una verano como cualquiera
+badge_name_VV=Reto V Verano
+badge_desc_VV=¡Nada lo más que puedas!
+badge_name_BR587=¡Gracias Don Roberto!
+badge_desc_BR587=Estarás en el corazón de todos por siempre
+badge_name_ES721=Hobba Oscars 2014
+badge_desc_ES721=He recibido un reconocimiento por mi trayectoria
+badge_name_ES636=La Biblioteca
+badge_desc_ES636=¡Shh! No hagan ruido por favor
+badge_name_ES584=¡Selfie!
+badge_desc_ES584=Yo estuve en la mejor del Hotel

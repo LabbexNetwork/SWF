@@ -1,0 +1,7 @@
+A estos códigos cambiarle la imágen por las que he subido.
+
+badge_name_SULW1=Verano 2014
+badge_desc_SULW1=En LUWorld ya ha empezado
+
+badge_name_SULW4=Día del Árbol
+badge_desc_SULW4=He completado el tercer reto

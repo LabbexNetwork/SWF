@@ -1,0 +1,2 @@
+badge_name_CEVV=¡Domingo de picnic!
+badge_desc_CEVV=Para comer y divertirnos

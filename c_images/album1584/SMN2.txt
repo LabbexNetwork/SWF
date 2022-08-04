@@ -1,0 +1,3 @@
+badge_name_SMN2=Semana Especial II
+
+badge_desc_SMN2=El veranito ya llegó...

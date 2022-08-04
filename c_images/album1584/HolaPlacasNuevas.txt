@@ -1,0 +1,32 @@
+badge_name_PBO10=Oleada de Publicidad
+badge_desc_PBO10=¡Hora de crecer!
+
+badge_name_PBO11=Oleada de Publicidad
+badge_desc_PBO11=He hecho una buena Publicidad
+
+badge_name_PBO9=Oleada de Publicidad
+badge_desc_PBO9=¡Unidos por un Hotel más grande!
+
+badge_name_PBO8=Oleada de Publicidad
+badge_desc_PBO8=De sala en sala
+
+badge_name_PBO7=Oleada de Publicidad
+badge_desc_PBO7=Spam por aquí y por acá
+
+badge_name_A2015=Hobba Awards 2015
+badge_desc_A2015=Yo asistí a los hobba awards
+
+badge_name_SANAM=Construcción de amitad
+badge_desc_SANAM=Amistad 100% verdadera
+
+badge_name_ES817=Corazón roto
+badge_desc_ES817=Yo logré reconstruir el corazón
+
+badge_name_EDMS=Adivina adivinador
+badge_desc_EDMS=He conseguido resolver los acertijos de ¡amor!
+
+badge_name_EPMS=Encuesta Amor II
+badge_desc_EPMS=¡San Valentin se siente por todos lados!
+
+badge_name_EDTCA=¡Que bueno soy!
+badge_desc_EDTCA=Soy muy bueno encontrando

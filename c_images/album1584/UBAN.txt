@@ -1,0 +1,2 @@
+badge_name_UBAN=¡Último BAN!
+badge_desc_UBAN=Merecido por sobrevivir el último a una oleada

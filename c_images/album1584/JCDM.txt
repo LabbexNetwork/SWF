@@ -1,0 +1,2 @@
+badge_name_JCDM=Rancing Penguin
+badge_desc_JCDM=Yo he sido el más veloz del juego.

@@ -1,0 +1,12 @@
+badge_name_FR640=Y para ti una flor...
+badge_desc_FR640=¡He sido el más romántico en las redes sociales!
+badge_name_RSHK=Conocedor de culturas
+badge_desc_RSHK=¡Conozco la cultura de varios países!
+badge_name_CHAWK=Salvador
+badge_desc_CHAWK=¡Me he infiltrado en un campamento militar sin ser descubierto!
+badge_name_RCP1=Ganador Torneo 2vs2
+badge_desc_RCP1=Gané el torneo junto a mi pareja
+badge_name_RCP2=Finalista Torneo 2vs2
+badge_desc_RCP2=Llegué a la final junto a mi pareja
+badge_name_RCP3=Semifinalista Torneo 2vs2
+badge_desc_RCP3=Llegué a la semifinal junto a mi pareja

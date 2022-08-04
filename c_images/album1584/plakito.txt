@@ -1,0 +1,2 @@
+badge_name_OFICINA=[CEV] Mi oficina
+badge_desc_OFICINA=Mi oficina fue la mejor de todas

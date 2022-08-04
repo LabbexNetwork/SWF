@@ -1,0 +1,12 @@
+badge_name_INFER24=Buecea
+badge_desc_INFER24=Logré llegar al fondo del mar
+badge_name_LFQ=QuizLUF
+badge_desc_LFQ=Fuí el más veloz respondiendo
+badge_name_CEVESTUDIO=[CEV] Estudio de grabación
+badge_desc_CEVESTUDIO=Mi estudio fue grandioso
+badge_name_TORNEO1=Torneo de dados
+badge_desc_TORNEO1=¡He sido el ganador!
+badge_name_TORNEO2=Torneo de dados
+badge_desc_TORNEO2=He sido finalista del torneo
+badge_name_TORNEO3=Torneo de dados
+badge_desc_TORNEO3=He sido semifinalista del torneo

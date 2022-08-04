@@ -1,0 +1,8 @@
+badge_name_GAM157=Secretos de la pirámide
+badge_desc_GAM157=¡Hay cosas que son imposible de creer!
+badge_name_GAM158=Salva el mundo
+badge_desc_GAM158=¡Yo salve el mundo, soy un superheroe!
+badge_name_GAM159=La ruleta de la suerte
+badge_desc_GAM159=¡Necesité mucha suerte para ganar!
+badge_name_GAM160=Unicorn Zombie Apocalypse
+badge_desc_GAM160=¡Sobreviví al ataque de los Unicornios y Zombies!

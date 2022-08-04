@@ -1,0 +1,12 @@
+badge_name_DJSHA=Fiesta de Halloween
+badge_desc_DJSHA=Respondí las preguntas más terroríficas
+badge_name_GAM252=El Juicio
+badge_desc_GAM252=Me acusaron injustamente
+badge_name_GAM253=El jardín
+badge_desc_GAM253=Soy el mas rápido del huerto
+badge_name_GAM254=La gran bola
+badge_desc_GAM254=Soy querido y nadie me pudo eliminar
+badge_name_GAM255=Casi abuela
+badge_desc_GAM255=¡La abuela ya es un fantasma!
+badge_name_GAM256=Cartoons
+badge_desc_GAM256=Soy fanático de los dibujos animados

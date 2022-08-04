@@ -1,0 +1,9 @@
+badge_name_CEVGRANJA=[CEV] La granja
+badge_desc_CEVGRANJA=¡Mi granja tenía muchos animales!
+
+badge_name_HMV24=Summer Love
+badge_desc_HMV24=¡Yo conseguí mi amor de verano!
+
+badge_name_HMV25=La casa embrujada
+badge_desc_HMV25=Que miedo tan divertido
+

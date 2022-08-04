@@ -1,0 +1,2 @@
+badge_name_WEED1=Five Days
+badge_desc_WEED1=5 días intensos de publi ;)

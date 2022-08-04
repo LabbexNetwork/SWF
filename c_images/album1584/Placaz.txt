@@ -1,0 +1,65 @@
+badge_name_RCFI=Reto I: Viajando en la nave	
+badge_desc_RCFI=¡Conocí ese nuevo planeta!
+badge_name_RCFII=Reto II: Escapando de los zombies
+badge_desc_RCFII=¡Corre! Que nos atrapan
+badge_name_RCFIII=Reto III: Ataque de marcianos
+badge_desc_RCFIII¡Oh! Un marciano
+badge_name_RCFIV=Reto IV: ¿Humano o robot?
+badge_desc_RCFIV=Lo hemos descubierto
+badge_name_RCII=Reto II: Algo de rapidez
+badge_desc_=Se me apetecía algo de comida rápida
+badge_name_RCIII=Reto III: ¡Sushi para todos!
+badge_desc_RCIII=Yo pago la cuenta
+badge_name_RCIV=Reto IV: Una tarde de café
+badge_desc_RCIV=¿Café de qué tipo?
+badge_name_CGII=¿Quién prepara mejor las malteadas?
+badge_desc_CGII=Mi equipo ha ganado el Evento Global II
+badge_name_GAM94=Duck deat 
+badge_desc_GAM94=Logre salir con éxito
+badge_name_GAM95=Jo, jo , jo
+badge_desc_GAM95=Me lograste atrapar 
+badge_name_GAM96=¡Alto ahí!
+badge_desc_GAM96=Ese es mi puesto
+badge_name_GAM97=¡Mi número!
+badge_desc_GAM97=La victoria fue mia
+badge_name_GAM98=¡Flash!
+badge_desc_GAM98= Elimine mi pareja de forma veloz
+badge_name_EATN=Astronautas
+badge_desc_EATN=¡Mi tripulación fue la mejor!
+badge_name_MTCF=MasterChef
+badge_desc_MTCF=¡Mi equipo fue el mejor en la cocina!
+badge_name_BVSM=Cielo vs Infierno
+badge_desc_BVSM=¿Y tú, de qué parte estás?
+badge_name_PLGR=¡Peligro!
+badge_desc_PLGR=Logré salir a salvo de la nave
+badge_name_HMJ1=Pueblo asesino
+badge_desc_HMJ1=Por poco y muero...
+badge_name_HMJ2=¡Es mia!
+badge_desc_HMJ2=Encontre todas las sillas correctas
+badge_name_HMJ3=Laberinto
+badge_desc_HMJ3=Por lograr pasar el desafío
+badge_name_HMJ4=Los números
+badge_desc_HMJ4=Siempre los mayores
+badge_name_HMJ5=Tierra a la vista
+badge_desc_HMJ5=Mi barco llego con éxito
+badge_name_HMJ6=Se ágil
+badge_desc_HMJ5=Soy más rápido que un rayo
+badge_name_ORG01=Organizador
+badge_desc_ORG01=Encargado de Organizar los Equipos del Hotel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

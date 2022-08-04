@@ -1,0 +1,8 @@
+CAMBIAR LOS TEXTOS DE LAS SIGUIENTES PLACAS:
+
+badge_name_WAN16=Capta tu momento feliz
+badge_desc_WAN16=¡Yo lo capté!
+
+badge_name_THI92=Jardín primaveral
+badge_desc_THI92=Yo encontré la placa escondida allí
+----------------------------------------------------------------------------

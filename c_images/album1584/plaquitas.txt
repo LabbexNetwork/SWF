@@ -1,0 +1,10 @@
+badge_name_MJRC=¿El mejor cocinero?
+badge_desc_MJRC=¡Ese soy yo!
+badge_name_DJS3=Especial de Miley
+badge_desc_DJS3=¡Si se trata de ella, todo lo sé!
+badge_name_DJS3=Password on stream
+badge_desc_DJS3=He ganado el password en directo
+badge_name_UST=¡Todo un Memorial!
+badge_desc_UST=Construí el rincón memorial de Hobba
+badge_name_RED04=Noche de comedia
+badge_desc_RED04=Mi chiste fue el mejor de todos

@@ -1,0 +1,16 @@
+
+badge_name_PUBLE=Publicidad con zEnergy
+badge_desc_PUBLE=¡Soy el rey del spam!
+
+badge_name_PUBLG=Publicidad con Gera
+badge_desc_PUBLG=¡Yo asistí a una oleada de Gera!
+
+badge_name_LILA1=Dinamita
+badge_desc_LILA1=¡Hice explotar con spam el hotel enemigo!
+
+badge_name_LILA2=Bomba de spam
+badge_desc_LILA2=¡Bombardeamos los hoteles con nuestro spam!
+
+badge_name_LILA3=Soldado de spam
+badge_desc_LILA3=¡Soy el soldado #1 con mi spam!
+

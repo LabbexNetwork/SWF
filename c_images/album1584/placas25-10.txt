@@ -1,0 +1,4 @@
+badge_name_DJS20=Especial de Adele
+badge_desc_DJS20=Participé en el retorno de Adele
+badge_name_ROVI=Reto VI: Koala
+badge_desc_ROVI=¡Gané la placa de este reto!

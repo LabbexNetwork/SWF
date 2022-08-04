@@ -1,0 +1,29 @@
+badge_name_BKCEV2=Dulceria
+badge_desc_BKCEV2=La mia tiene los mejores dulces de todo hobba
+
+badge_name_HMV19=Carrera de autos
+badge_desc_HMV19=¡Soy un experto manejando!
+
+badge_name_HMV20=Sit
+badge_desc_HMV20=¿Eres capaz de llegar al asiento primero que otro?
+
+badge_name_ACEV=[CEV] Aeropuerto
+badge_desc_ACEV=Mi sala resalto entre las demás
+
+badge_name_EBCEV=[CEV] Estación de bomberos
+badge_desc_EBCEV=¡Wiuuu! Se incedia una Hobbacasa
+
+badge_name_CCEVA=[CEV] Casa del árbol
+badge_desc_CCEVA=Una casa a lo alto de un árbol
+
+badge_name_NL256=Mi biblioteca
+badge_desc_NL256=Todos los libros que necesitas están aquí
+
+badge_name_WOPD1=Ganador Torneo WP
+badge_desc_WOPD1=Con mi pareja ganamos el Wooble Pod
+
+badge_name_WOPD2=Finalista Torneo WP
+badge_desc_WOPD2=Con mi pareja llegamos a la final de Wooble Pod.
+
+badge_name_WOPD3=Seminialista Torneo WP
+badge_desc_WOPD3=Con mi pareja llegamos a la semifinal de Wooble Pod.

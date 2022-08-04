@@ -1,0 +1,14 @@
+badge_name_HMV5=El barco se hundió
+badge_desc_HMV5=Pero encontre el camino de vuelta a casa
+badge_name_HMV6=¡Gritalo!
+badge_desc_HMV6=Le he gritado todo lo que sabia
+badge_name_HMV7=¿Rápido?
+badge_desc_HMV7=Me siento el más rápido de todos
+badge_name_LILA4=Meteoritos de spam
+badge_desc_LILA4=¡Hemos atacado otro hotel!
+badge_name_GAM71=El panda
+badge_desc_GAM71=Conseguí llevar al panda a su habitad
+badge_name_GAM72=Pacman
+badge_desc_GAM72=Por ser ganador de una partida de pacman automático. ¿Tu que esperas?
+badge_name_BTPF=Battle Puff
+badge_desc_BTPF=Soy veloz con las palancas

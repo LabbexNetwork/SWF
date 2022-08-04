@@ -1,0 +1,2 @@
+badge_name_LWMUN=Final del Mundial
+badge_desc_LWMUN=Fútbol y calor...¡Lo mejor!

@@ -1,0 +1,20 @@
+badge_name_LFTI=Fiesta de disfraces
+badge_desc_LFTI=El mejor difraz
+
+badge_name_LFTII=Chupa sangre
+badge_desc_LFTII=Un vampiro anda suelto
+
+badge_name_LFTIII=Halloween es hoy
+badge_desc_LFTIII=y me disfracé con LUFantasie
+
+badge_name_LFTIV=Evento de terror
+badge_desc_LFTIV=Terror en LUFantasie
+
+badge_name_LFTV=¿Tienes miedo?
+badge_desc_LFTV=¡Bú!
+
+badge_name_LFTVI=Jack-o'-lantern
+badge_desc_LFTVI=Su alma quedó dentro de la calabaza
+
+badge_name_LFRA=Reserva Animal
+badge_desc_LFRA=¡Bob y Toby están a salvo!

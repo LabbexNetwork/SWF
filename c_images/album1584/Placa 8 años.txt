@@ -1,0 +1,14 @@
+bagde_name_8HOBBA=¡Ya son 8 años!
+badge_desc_8HOBBA=#FelizCumpleañosHobba
+bagde_name_8AN02=¡Feliz Cumple Hobba!
+badge_desc_8AN02=Participé de la celebración :)
+bagde_name_8AN05=Hobba Hotel
+badge_desc_8AN05=Fiel a la comunidad
+bagde_name_8HBDAY=¡La tarta!
+badge_desc_8HBDAY=¡Tengo la tarta de cumpleaños de Hobba!
+bagde_name_8HCEV=CEV Hobba
+badge_desc_8HCEV=Ganador/a del evento CEV por los 8 Años de Hobba
+bagde_name_8HRS=8 Años Hobba
+badge_desc_8HRS=Ganador/a del Evento de Redes Sociales
+bagde_name_8HOBBA1=#8AñosHobba
+badge_desc_8HOBBA1=Yo celebré en Hobba con LUFantasie

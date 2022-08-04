@@ -1,0 +1,6 @@
+badge_name_SAW1=Saw Fan
+badge_desc_SAW1=Soy un aficionado del Castillo Saw
+badge_name_SAW2=Tramo especial
+badge_desc_SAW2=Yo gané el tramo especial de Halloween del Saw
+badge_name_SAW3=Saw FB
+badge_desc_SAW3=Yo gané un concurso en el Facebook Oficial del Saw

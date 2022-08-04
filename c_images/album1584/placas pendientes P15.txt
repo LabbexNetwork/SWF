@@ -1,0 +1,21 @@
+badge_name_GAM179=Caquita espacial
+badge_desc_GAM179=¡Creo que huele a gravedad!
+badge_name_GAM180=No importa que tan mal se encuentre
+badge_desc_GAM180=Yo he reparado las conexiones!
+badge_name_GAM181=¡Muchos helados!
+badge_desc_GAM181=Pero he conseguido el mejor
+badge_name_GAM182=Demasiados colores en ella
+badge_desc_GAM182=¡Pero eso no fue un obstáculo para conseguirla!
+badge_name_GAM183=Bien aseguradas
+badge_desc_GAM183=ya nadie podrá pasar en ellas
+badge_name_GAM184=Por el decreto de la realeza
+badge_desc_GAM184=me han dado honor al título: "El grande"
+badge_name_GAM185=Veo veo...
+badge_desc_GAM185=¡Un premio grande muy cerca!
+badge_name_GAM186=¡ Trolololol !
+badge_desc_GAM186=He sido troleado
+badge_name_GAM187=Simón manda
+badge_desc_GAM187=¡yo obedezco sus órdenes!
+badge_name_GAM188=El rey del templo
+badge_desc_GAM188=Ninguna trampa me ha pillado
+

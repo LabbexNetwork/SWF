@@ -1,0 +1,21 @@
+badge_name_ARS2=Igualdad
+badge_desc_ARS2=Todos somos iguales, de una u otra forma.
+badge_name_LFSMCF=¿Y mi nave espacial?
+badge_desc_LFSMCF=He ganado en la semana de LUFantasie
+badge_name_PBO32=Publicidad Oficial
+badge_desc_PBO32=¡Hagamos crecer al Hotel!
+badge_name_PBO33=Publicidad Oficial
+badge_desc_PBO33=Mensajes por todos lados
+badge_name_PBO34=Publicidad Oficial
+badge_desc_PBO34=H de Hobba
+badge_name_PBO35=Publicidad Oficial
+badge_desc_PBO35=Por un Hobba con más usuarios
+badge_name_PBO36=Publicidad Oficial
+badge_desc_PBO36=Publicidad a lo extremo
+badge_name_PBO37=Publicidad Oficial
+badge_desc_PBO37=Mi pc va a explotar
+badge_name_PBO38=Publicidad Oficial
+badge_desc_PBO38=Publicidad aquí y en el espacio
+badge_name_HSAW=Castillo Saw
+badge_desc_HSAW=Soy un guía oficial del saw
+

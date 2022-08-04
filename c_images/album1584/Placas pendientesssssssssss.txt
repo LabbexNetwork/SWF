@@ -1,0 +1,89 @@
+badge_name_GMJ1=Salva a la bola
+badge_desc_GMJ1=¡Consegui pararla a tiempo!
+
+badge_name_RSPS=Verdadero o Falso
+badge_desc_RSPS=¡La seguridad me hizo ganador!
+
+badge_name_ALIZ28=¡Vaya juguetería!
+badge_desc_ALIZ28=¡Buzz la aprueba!
+
+badge_name_GMJ2=Aviador de primera
+badge_desc_GMJ2=Me gusta ir por las nubes
+
+badge_name_GMJ3=La Mansión
+badge_desc_GMJ3=No le tengo miedo a nada
+
+badge_name_GMJ4=La bomba
+badge_desc_GMJ4=¡BOOOOOOOOM!
+
+badge_name_GM241=Paciencia
+badge_desc_GM241=Nada me enoja
+
+badge_name_OTO1=Semana de Otoño
+badge_desc_OTO1=Yo le di la bienvenida a esta semana :)
+
+badge_name_OTO2=Semana de Otoño
+badge_desc_OTO2=Yo despedí la semana de otoño
+
+badge_name_ROI=Reto I: Hojas
+badge_desc_ROI=Yo encontré la placa escondida de este reto
+
+badge_name_HALO1=Semana Halloween
+badge_desc_HALO1=¡Yo asistí a su apertura!
+
+badge_name_HALO2=Termino Halloween
+badge_desc_HALO2=Se acabó la semana del terror...
+
+badge_name_REHA1=Reto I: Muertos 
+badge_desc_REHA1=Yo logré conseguir la placa de este reto
+
+badge_name_RHW1=Puerta maldita
+badge_desc_RHW1=¿Qué habra detras de ella?
+
+badge_name_RHW2=Calabaza maléfica
+badge_desc_RHW2=Después de todo es bonita por dentro
+
+badge_name_RHW3=Feria abandonada
+badge_name_RHW3=Las ferias son divertidas ¿que puede salir mal?
+
+badge_name_RHW4=Castillo maldito
+badge_desc_RHW4=Yo no tengo miedo ¡Lo juro!
+
+badge_name_RS1=¡Concurso Parejas!
+badge_desc_RS1=¡He sido el mejor encontrando parejas!
+
+badge_name_RS2=¡Concurso Parejas!
+badge_desc_RS2=¡Segundo lugar encontrando parejas!
+
+bagde_name_RS3=¡Concurso Parejas!
+badge_desc_RS3=¡Tercer lugar encontrando parejas!
+
+badge_name_ALIZ29=Coraje el perro cobarde
+badge_desc_ALIZ29=Recree una caricatura de mi infancia
+
+badge_name_ALIZ30=Squirtle
+badge_desc_ALIZ30=Pokémon tipo agua
+
+badge_name_ALIZ31=Pikachu
+badge_desc_ALIZ31=Pokémon tipo eléctrico
+
+badge_name_ALIZ32=Bulbasaur
+badge_desc_ALIZ32=Pokémon tipo planta
+
+badge_name_ALIZ33=Charmander
+badge_desc_ALIZ33=Pokémon tipo fuego
+
+badge_name_ALIZ34=Soy un campeón
+badge_desc_ALIZ34=¡Yo gané el partido!
+
+badge_name_ALIZ35=Soy un campeón
+badge_desc_ALIZ35=¡Yo gané el partido!
+
+badge_name_ALIZ38=¡Dragones!
+badge_desc_ALIZ38=AAAAAAAAAAAAAAH
+
+badge_name_ALIZ37=¡Dinosaurios!
+badge_desc_ALIZ37=Hace años estuvieron en mi sala
+
+badge_name_ALIZ36=[CEV]Peluches
+badge_desc_ALIZ36=¡Son tan esponjosos!

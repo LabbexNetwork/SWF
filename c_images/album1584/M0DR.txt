@@ -1,0 +1,2 @@
+badge_name_M0DR=¡Ñam ñam!
+badge_desc_M0DR=He ganado mientras comía

@@ -1,0 +1,8 @@
+badge_name_DJSA=Evento de verano
+badge_desc_DJSA=!Gané un concurso de los DJ`s!
+badge_name_GAM220=Camino Ardiente
+badge_desc_GAM220=He logrado pasar los caminos sin quemarme
+badge_name_GAM221=El corral
+badge_desc_GAM221=Con esta placa demuestro, que ni toda la fauna, puede contra mi
+badge_name_GAM222=Di el POD
+badge_desc_GAM222=Soy el más rápido con los PODs

@@ -1,0 +1,4 @@
+badge_name_GAM218=BattleShip
+badge_desc_GAM218=He logrado hundir los barcos de los demás y quedar a salvo
+badge_name_GAM219=Triatlón
+badge_desc_GAM219=He logrado llegar antes que mis adversarios

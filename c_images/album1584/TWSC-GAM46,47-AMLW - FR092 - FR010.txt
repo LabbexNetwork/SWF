@@ -1,0 +1,17 @@
+badge_name_TWSC=Twister Cold
+badge_desc_TWSC=¡Las casillas heladas no se me resisten!
+
+badge_name_GAM46=Templo de Wozle
+badge_desc_GAM46=Mi resistencia es como la del dragón
+
+badge_name_GAM47=Encuéntralo todo
+badge_desc_GAM47=Mi rapidez para buscar es inigualable
+
+badge_name_AMLW=Love & Love
+badge_desc_AMLW=¡Asi se celebra el mes del amor y la amistad en LUWorld!
+
+badge_name_FR092=Juegos de Fantasmin III
+badge_desc_FR092=Coleccionando placas de los Eventos de Fantasmin.
+
+badge_name_FR010=Ganador del Evento Bonus
+badge_desc_FR010=He ganado alguno de los Eventos Bonus en los concursos de Fantasmin.

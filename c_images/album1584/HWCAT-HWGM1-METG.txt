@@ -1,0 +1,8 @@
+badge_name_METG=¡Mete Gol!
+badge_desc_METG=Mi habilidad futbolística, es la mejor.
+
+badge_name_HWGM1=¿Truco o Trato?
+badge_desc_HWGM1=Conseguí los mejores caramelos
+
+badge_name_HWCAT=Huye del espíritu
+badge_desc_HWCAT=He conseguido huir del espíritu de Catrina Effigy

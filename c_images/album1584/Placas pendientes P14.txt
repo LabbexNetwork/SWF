@@ -1,0 +1,10 @@
+badge_name_GAM194=Corre con Cuidado
+badge_desc_GAM194=¡He sido el mejor al correr!
+badge_name_GAM195=El Rey del Movimiento
+badge_desc_GAM195=¡Nadie es mas agil que yo!
+badge_name_GAM196=The Fastest Runner
+badge_desc_GAM196=Yo y mi compañero somos invencibles
+badge_name_GAM197=The catalog 
+badge_desc_GAM197=Me se el catalogo al derecho y al revez
+badge_name_GAM198=Sientate rápido
+badge_desc_GAM198=Les he ganado a mis enemigos con mi velocidad 

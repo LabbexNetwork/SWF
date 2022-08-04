@@ -1,0 +1,14 @@
+badge_name_HMV2=¡Corre que te atrapan!
+badge_desc_HMV2=Logré pasar el laberinto.
+badge_name_HMV3=¡Style!
+badge_desc_HMV3=Porto Hobba Style.
+badge_name_HMV4=¡Style!
+badge_desc_HMV4=Porto Hobba Style.
+badge_name_GAM62=¡Colorin colorado!
+badge_desc_GAM62=¡Supere el juego mas colorado!
+badge_name_GAM63=Laberinto Bensalem
+badge_desc_GAM63=He sido uno de los pocos que lo han pasado.
+badge_name_GAM64=¡Soy el más rápido con los comandos!
+badge_desc_GAM64=¡Nadie me para con la habilidad frente a los comandos!
+badge_name_GAM65=¡El más veloz!
+badge_desc_GAM65=La velocidad no me causo miedo.

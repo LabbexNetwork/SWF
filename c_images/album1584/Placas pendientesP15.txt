@@ -1,0 +1,4 @@
+badge_name_POOL=[CEV] Mesa de pool
+badge_desc_POOL=Mi mesa fue muy grande y maravillosa
+badge_name_ARCOP=[CEV] Mi arcoiris
+badge_desc_ARCOP=El arcoiris más colorido es el mio

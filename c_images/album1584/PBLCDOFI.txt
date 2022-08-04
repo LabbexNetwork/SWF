@@ -1,0 +1,2 @@
+badge_name_PBLCDOFI=Publicista Oficial
+badge_desc_PBLCDOFI=Encargado de las Oleadas oficiales de Hobba

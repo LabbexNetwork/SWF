@@ -1,0 +1,10 @@
+Si ponéis placas y códigos cuando ya hay pendientes, poned vuestros códigos de placas en e lmismo fichero que ya hay de las que hay pendientes.
+
+No lo hagas si se necesita modificar textos, en ese caso ponlo en un fichero a parte indicado que se necesita modificar.
+
+NOTA: Si se ha subido la placa pero los textos no, simplemente pon los textos como si fueran a ser textos nuevos.
+
+Formato de textos:
+
+badge_name_CODIGODELAPLACA=Título de la placa
+badge_desc_CODIGODELAPLACA=Descripción de la placa

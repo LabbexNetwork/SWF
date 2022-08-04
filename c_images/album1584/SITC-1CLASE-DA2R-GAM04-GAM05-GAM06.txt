@@ -1,0 +1,10 @@
+badge_name_SITC=¡Sientate en la correcta!
+badge_desc_SITC=A suerte no me gana nadie :P
+
+badge_name_1CLASE=The 1st of the class
+badge_desc_1CLASE=¡Soy el primero de la clase!
+
+badge_name_DA2R=¡Dados Race!
+badge_desc_DA2R=Las carreras de da2 se me dan de lujo ;)
+
+-Sustituir las imágenes GAM04 GAM05 y GAM06

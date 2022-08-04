@@ -1,0 +1,12 @@
+badge_name_GAM92=Carrera de renos
+badge_desc_GAM92=Mi reno es el más veloz
+badge_name_NO154=Vacaciones especiales
+badge_desc_NO154=¡Yo soy el mejor organizándolas!
+badge_name_DJOF=DJ Oficial
+badge_desc_DJOF=Soy un DJ oficial de Hobba
+badge_name_K0R01=La Leyenda de Korra
+badge_desc_KOR01=Soy un fanático de esta serie
+badge_name_JOS01=Feliz cumpleaños MOD-Joselin
+badge_desc_KOR01=¡La pase genial en su cumpleaños!
+badge_name_Z0LM3K=Placa de Zolmek
+badge_desc_Z0LM3K=Exclusivamente para él

@@ -1,0 +1,4 @@
+badge_name_PET=Proyecto PTE
+badge_desc_PET=Publicidad a Tu Estilo
+badge_name_MA01=Laberinto Maya
+badge_desc_MA01=Me lo he pasado desafiando las pruebas

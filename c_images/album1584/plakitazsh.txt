@@ -1,0 +1,10 @@
+badge_name_RSHW1=Encuesta Hobbaween
+badge_desc_RSHW1=Respondí a las más maléficas preguntas.
+badge_name_RSHW2=Laberinto encantado
+badge_desc_RSHW2=Puse a salvo al querido Frank.
+badge_name_RSHW3=Encuesta Halloween
+badge_desc_RSHW3=Participé en la encuesta de  Halloweey contesté correctamente
+badge_name_RSHW4=¡Que susto!
+badge_desc_RSHW4=Fui el que causó más temor en Twitter
+badge_name_RSHW5=Evento Facebook.
+badge_desc_RSHW5=He creado el mejor look hobbaween.

@@ -1,0 +1,8 @@
+badge_name_HMV12=Ahogalo
+badge_desc_HMV12=He ahogado a todos mis contrincantes 
+badge_name_HMV13=Salva al pingüino
+badge_desc_HMV13=Fui veloz a la hora de salvarlo
+badge_name_MRI=Y comer hasta más no poder
+badge_desc_MRI=Mi restaurante resalto entre los demás
+badge_name_NL278=Ice Bear
+badge_desc_NL278=¡Mi osito llegó a la nieve con éxito!

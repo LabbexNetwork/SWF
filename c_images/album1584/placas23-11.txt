@@ -1,0 +1,9 @@
+badge_name_JNHP=Juegos nocturnos
+badge_desc_JNHP=Participé en un juego nocturno de Poleth
+
+badge_name_NEHP=Navidad explosiva
+badge_desc_NEHP=Sobreviví al regalo explisivo
+badge_name_GAM74=En las llamas
+badge_desc_GAM74=Soy el mas coordinado y eh caminado sobre llamas, ¿Y tu?
+badge_name_BR565=¡Me gusta!
+badge_desc_BR565=¡Causo furor en el Facebook Oficial de Hobba!

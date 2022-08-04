@@ -1,0 +1,26 @@
+badge_name_RSPKM=¿Cuál es ese pokémon?
+badge_desc_RSPKM=Es un...
+
+badge_name_ALIZ18=¡Soy el mapa!
+badge_desc_ALIZ18=¿A dónde vamos?
+
+badge_name_LFTREN1=Tren LUFantasie
+badge_desc_LFTREN1=¡Yo participe y gane!
+
+badge_name_VHCC=Casa de campo
+badge_desc_VHCC=¡La mía fue la mejor!
+
+badge_name_LFAR=Alfombra Roja
+badge_desc_=Fui el mejor entre los nominados en la Alfombra Roja.
+
+badge_name_CEVOL=[CEV] Volcán
+badge_desc_CEVOL=¡Cuidado! Hará erupción.
+
+badge_name_CEVCLA=[CEV] Mi escuela
+badge_desc_CEVCLA=¡Es la mejor!
+
+badge_name_ALIZ19=¡Escúchame rugir!
+badge_desc_ALIZ19=Mi sabana es la mejor
+
+badge_name_ALIZ20=Okay?
+badge_desc_ALIZ20=Okay.

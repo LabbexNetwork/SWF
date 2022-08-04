@@ -1,0 +1,58 @@
+badge_name_MMRP=Memorized
+badge_desc_MMRP=¡Mi memoria es la mejor!
+badge_name_CHM=Museo
+badge_desc_CHM=Yo fui el constructor del museo de Hobba
+badge_name_HMV21=Candyland
+badge_desc_HMV21=Un mundo dulce y divertido
+badge_name_GPO15=Mejor puntuación del 2015
+badge_desc_GPO15=He sido uno de los mejores puntajes del 2015
+badge_name_CEVLB=[CEV] Laboratorio químico
+badge_desc_CEVLB=Mi laboratorio ha sido la mejor
+badge_name_SMLFD=Huevos de dinosaurios
+badge_desc_SMLFD=He ganado en la semana de LUFantasie
+badge_name_SMLFD1=Huevos de dinosaurios
+badge_desc_SMLFD1=He ganado en la semana de LUFantasie
+badge_name_SMLFD2=Huevos de dinosaurios
+badge_desc_SMLFD2=He ganado en la semana de LUFantasie
+badge_name_COOP1=Test de cooper
+badge_desc_COOP1=¡Quedé eliminado en la primera ronda!
+badge_name_COOP2=Test de cooper
+badge_desc_COOP2=¡Quedé eliminado en la segunda ronda!
+badge_name_COOP3=Test de cooper
+badge_desc_COOP3=¡Quedé eliminado en la tercera ronda!
+badge_name_COOP4=Test de cooper
+badge_desc_COOP4=¡Quedé eliminado en la cuarta ronda!
+badge_name_COOP5=Test de cooper
+badge_desc_COOP5=¡Casi lo consigo!
+badge_name_COOP6=Test de cooper
+badge_desc_COOP6=¡Logré ser el más veloz!
+badge_name_HOBBAFM=Mi canción
+badge_desc_HOBBAFM=Mi canción ha sido pedida para la radio
+badge_name=INFER21=¡Sin prisas!
+badge_desc_INFER21= Las prisas nunca son buenas
+badge_name=INFER22=¡Sobre ruedas!
+badge_desc_INFER22=Listo para competir
+badge_name=CHEF=Master chef
+badge_desc_CHEF=Impresioné al jurado con mis obras
+badge_name=INFERTRT=Tributo hobba
+badge_desc_INFERTRT=Toda una revolución empezada de una chispa
+badge_name=INFER23=Dado veloz
+badge_desc_INFER23=Todos mis rivales quedan vencidos
+badge_name=GAM161=¡Super Hobba Bross! 
+badge_desc_GAM161=Soy mas pro que Mario Bross
+badge_name=GAM162=¡Super Hobba Bross! 
+badge_desc_GAM162=Soy mas pro que Mario Bross
+badge_name=GAM163=Herradura de oro
+badge_desc_GAM163=Dicen que es de buena suerte
+badge_name=GAM164=1, 2, 3
+badge_desc_GAM164=¡He disparado a todos los patos!
+badge_name=GAM165=En el espacio
+badge_desc_GAM165=¡El viaje fue increíble!
+badge_name=GAM166=¡El color correcto!
+badge_desc_GAM166=¡Yo lo he adivinado!
+badge_name=GAM167=¿Quién lo dijo?
+badge_desc_GAM167=Soy un genio diciendo quien lo dijo.
+badge_name=GAM168=La prehistoria
+badge_desc_GAM168=Porque para conocer nuestro presente debemos conocer nuestro pasado.
+badge_name=GAM169=Salva al pingüino
+badge_desc_GAM169=¡Tu mejor aliado en el polo sur!

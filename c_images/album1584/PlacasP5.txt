@@ -1,0 +1,4 @@
+badge_name_RSHK=Conocedor de culturas
+badge_desc_RSHK=¡Conozco la cultura de varios países!
+badge_name_CHAWK=Salvador
+badge_desc_CHAWK=¡Me he infiltrado en un campamento militar sin ser descubierto!

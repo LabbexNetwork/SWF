@@ -1,0 +1,4 @@
+badge_name_VERG=¡Cuidado con el socorrista!
+badge_desc_VERG=Siempre hay que darse un chapuzón con precaución
+badge_name_TVST=Todos VS Todos
+badge_desc_TVST=¡Atrapo a todos con velocidad!

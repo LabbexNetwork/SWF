@@ -1,0 +1,12 @@
+﻿badge_name_ZOL48=Contra el Cáncer
+badge_desc_ZOL48=¡Unir fuerzas y luchar!
+badge_name_DJOFICIAL2=Head DJ
+badge_desc_DJOFICIAL2=Yo me encargo del equipo de DJ's
+badge_name_JEFESAW=Dueñ@
+badge_desc_JEFESAW=Creador del Saw Oficial
+badge_name_ALTOSAW=Coordinador
+badge_desc_ALTOSAW=Yo mantengo el orden en el Saw Oficial
+badge_name_ROIII=Reto III: Atardecer
+badge_desc_ROIII=Yo encontré la placa en este fantástico atarceder
+badge_name_SEMAFORO=Semaforo
+badge_desc_SEMAFORO=¡Cuidado!, sólo pasa con verde

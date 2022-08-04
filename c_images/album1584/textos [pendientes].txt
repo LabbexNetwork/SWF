@@ -1,0 +1,8 @@
+badge_name_DJS9=¡Radio Romantica!
+badge_desc_DJS9=Música al ritmo de tu corazón
+
+badge_name_CDLG=Cuidad Lego
+badge_desc_CDLG=¡Yo construí la mejor!
+
+badge_name_GAM106=Cuestión de suerte
+badge_desc_GAM106=¡Soy uno de los más afortunados!

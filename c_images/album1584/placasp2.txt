@@ -1,0 +1,74 @@
+badge_name_NC1=¡Mejor comediante!
+badge_desc_CN1=Soy el mejor chico contando chistes
+
+badge_name_NC2=¡Mejor comediante!
+badge_desc_CN2=Soy la mejor chica contando chistes
+
+badge_name_TW13=Twitter
+badge_desc_TW13=¡Gané un evento mediante Twitter!
+
+badge_name_FB13=Facebook
+badge_desc_FB13=¡Gané un evento mendiante Facebook!
+
+badge_name_RSF2=Mega evento
+badge_desc_RSF2=¡Fui el ganador de uno de los grandes eventos por las redes sociales!
+
+badge_name_SNOOP=Cumpleaños de Snoop
+badge_desc_SNOOP=¡Me lo pasé en grande en su fiesta!
+
+badge_name_GAM138=Rollers murderers
+badge_desc_GAM138=¡Yo pude contra todos y sobreviví!
+
+badge_name_GAM139=¡Colores!
+badge_desc_GAM139=¡Me encantan los colores!
+
+badge_name_GAM140=¡A todo motor!
+badge_desc_GAM140=¡He ganado a todos mis contrincantes en la carrera!
+
+badge_name_GAM141=Steeplechase
+badge_desc_GAM141=¡He superado todos los obstáculos!
+
+badge_name_GAM142=Geometry Dash
+badge_desc_GAM142=¡Soy el mejor jugador de Geometry Dash!
+
+badge_name_GAM143=La Playa
+badge_desc_GAM143=¡Fue un día soleado y refrescante!
+
+badge_name_GAM144=Calaveras Asesinas
+badge_desc_GAM144=¡Tenía mucho miedo, pero sobreviví!
+
+badge_name_GAM145=¡Te Reto!
+badge_desc_GAM145=Me retaron, y le enseñe que... ¡NO CONTABAN CON MI ASTUCIA!
+
+badge_name_GAM146=De tin marín
+badge_desc_GAM146=Pude elegir la baldosa correcta
+
+badge_name_GAM147=¡Se mueven! 
+badge_desc_GAM147=Logré subir y bajar sin caerme
+
+badge_name_GAM148=En la mazmorra
+badge_desc_GAM148=¡Mi equipo y yo hemos ganado el duelo!
+
+badge_name_GAM149=¡Buscando a Nemo! 
+badge_desc_GAM149=No se me vuelve a escapar
+
+badge_name_GAM150=100 Latinos Dijeron 150 
+badge_desc_GAM150=¡Soy el mejor con las encuestas!
+
+badge_name_GAM151=Separando en sílabas 
+badge_desc_GAM151=¡Soy el más rápido separando en sílabas!
+
+badge_name_GAM152=¿Dónde está la Pista? 
+badge_desc_GAM152=¡Yo la encontré primero!
+
+badge_name_GAM153=Colorful Game
+badge_desc_GAM153=Yo controlo los colores
+
+badge_name_GAM154=Slenderman en el Bosque 
+badge_desc_GAM154=El miedo me ayudo a ganar
+
+badge_name_GAM155=Mi Sentido
+badge_desc_GAM155=Mi gran sentido es mi mejor amigo
+
+badge_name_GAM156=Pinguinos Malvados
+badge_desc_GAM156=De estos no te salvas

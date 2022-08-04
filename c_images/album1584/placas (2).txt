@@ -1,0 +1,26 @@
+badge_name_TR220=Central Invernal
+badge_desc_TR220=¡Yo asistí a su inauguración!
+
+badge_name_ES778=Taller de Santa
+badge_desc_ES778=¡A mi taller no le faltó ni un detalle!
+
+badge_name_ES770=Fiestas navideñas
+badge_desc_ES770=¡Todos celebraron la navidad en mi sala!
+
+badge_name_FR545=Cabaña navideña
+badge_desc_FR545=¡Gané el CEV navideño con ella!
+
+badge_name_THBCD=The Highest Bidder
+badge_desc_THBCD=Cuando se trata de apostar ¡nadie me gana!
+
+badge_name_GAM93=¡Colombia!
+badge_desc_GAM93=Orgulloso de mi país, ¿y tu?
+
+badge_name_LKJCD=Lost Keys
+badge_desc_LKJCD=¡Yo encontré la llave perdida!
+
+badge_name_IT762=¡Hora de patinar!
+badge_desc_IT762=¡Yo soy el dueño de la mejor pista de hielo de Hobba!
+
+badge_name_IT737=Navidad 2014
+badge_desc_IT737=¡Yo lo celebré en Hobba!

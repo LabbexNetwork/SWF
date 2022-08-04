@@ -1,0 +1,10 @@
+badge_name_INFER25=Invicto
+badge_desc_INFER25=Un rival digno por favor.
+badge_name_CEVINFE=Ganador del CEV
+badge_desc_CEVINFE=Gané un cev de Infernus
+badge_name_INFER26=Sobrevive
+badge_desc_INFER26=Escapé de las trampas ocultas
+badge_name_HMV22=Parque jurasíco
+badge_desc_HMV22=¡Cuidado con los dinosaurios!
+badge_name_HMV23=Huye de la verdura
+badge_desc_HMV23=Corre en busca de tu merienda

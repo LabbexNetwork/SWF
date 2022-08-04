@@ -1,0 +1,2 @@
+badge_name_LUWSF=LUWorld Fermín 2014
+badge_desc_LUWSF=¡Ni el toro mas veloz puede contra mi!

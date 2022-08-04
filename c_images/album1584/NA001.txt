@@ -1,0 +1,2 @@
+badge_name_NA001=Placa Escondida Mall
+badge_desc_NA001=¡Encontré la Placa escondida del Hobba Mall!

@@ -1,0 +1,47 @@
+badge_name_LFSET=¡Bú! ¡Qué horror!
+badge_desc_LFSET=He ganado en la semana de LUFantasie
+
+badge_name_PBV=Publicidad Oficial veraniega
+badge_desc_PBV=¡Wooh! ¡A jugar!
+
+badge_name_PBV1=Publicidad Oficial veraniega
+badge_desc_PBV1=¡Qué mar!
+
+badge_name_PBV2=Publicidad Oficial veraniega
+badge_desc_PBV2=Nada como un baño en el mar
+
+badge_name_PBV3=Publicidad Oficial veraniega
+badge_desc_PBV3=Pizza y unas peliculas para verano
+
+badge_name_PBV4=Publicidad Oficial veraniega
+badge_desc_PBV4=¡A surfear!
+
+badge_name_PBV5=Publicidad Oficial veraniega
+badge_desc_PBV5=Las temperaturas están altisímas
+
+badge_name_PBV7=Publicidad Oficial veraniega
+badge_desc_PBV7=¡Jugar con amigos en la playa!
+
+badge_name_PBV8=Publicidad Oficial veraniega
+badge_desc_PBV8=¡Veranoooo!
+
+badge_name_LFADM=LUFantasie
+badge_desc_LFADM=Soy Administrador de la Web
+
+badge_name_LFCOOR=LUFantasie
+badge_desc_LFCOOR=Soy Coordinador de la Web
+
+badge_name_LFEQUIPO=LUFantasie
+badge_desc_LFEQUIPO=Formo parte del equipo de la Web
+
+badge_name_LFJU=El mejor del mes de Junio
+badge_desc_LFJU=Soy uno de los mejores del mes de Junio
+
+badge_name_LFJUL=El mejor del mes de Julio
+badge_desc_LFJUL=Soy uno de los mejores del mes de Julio
+
+badge_name_LFMA=El mejor del mes de Mayo
+badge_desc_LFMA=Soy uno de los mejores del mes de Mayo
+
+badge_name_CEVLOGO=[CEV] Logo de Hobba
+badge_desc_CEVLOGO=¡Mi logo era original!

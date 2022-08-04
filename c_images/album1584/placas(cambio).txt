@@ -1,0 +1,26 @@
+Cambiar name y descripción de placas ya subidas:
+
+
+badge_name_DS5=Huye de las calaveras
+badge_desc_DS5=¡Fui el único en lograrlo!
+
+badge_name_CM1301=Evento CM's 2015
+badge_desc_CM1301=Me lo he pasado en grande el mes de Enero
+badge_name_CM1302=Evento CM's 2015
+badge_desc_CM1302=Me lo he pasado en grande el mes de Febrero
+badge_name_CM1303=Evento CM's 2015
+badge_desc_CM1303=Me lo he pasado en grande el mes de Marzo
+badge_name_CM1304=Evento CM's 2015
+badge_desc_CM1304=Me lo he pasado en grande el mes de Abril
+badge_name_CM1305=Evento CM's 2015
+badge_desc_CM1305=Me lo he pasado en grande el mes de Mayo
+badge_name_CM1306=Evento CM's 2015
+badge_desc_CM1306=Me lo he pasado en grande el mes de Junio
+badge_name_CM1307=Evento CM's 2015
+badge_desc_CM1307=Me lo he pasado en grande el mes de Julio
+badge_name_CM1308=Evento CM's 2015
+badge_desc_CM1308=Me lo he pasado en grande el mes de Agosto
+badge_name_CM1309=Evento CM's 2015
+badge_desc_CM1309=Me lo he pasado en grande el mes de Septiembre
+badge_name_CM1310=Evento CM's 2015
+badge_desc_CM1310=Me lo he pasado en grande el mes de Octubre

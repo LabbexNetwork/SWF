@@ -1,0 +1,28 @@
+badge_name_SVC12=Concurso San Valentín
+badge_desc_SVC12=He ganado un Concurso de la Semana Especial
+badge_name_SVC3=Concurso San Valentín
+badge_desc_SVC3=He ganado un Concurso de la Semana Especial
+badge_name_EGSVII=Evento Global II
+badge_desc_EGSVII=Hemos trabajado en equipo
+badge_name_CHLC=La carroza
+badge_desc_CHLC=Mi carroza a sido la mejor
+badge_name_CEVSPA=[CEV] Spa
+badge_desc_CEVSPA=¡Hora de relajarse!
+badge_name_ELDCI=Buscaminas
+badge_desc_ELDCI=¡Logré escapar de las minas ocultas!
+badge_name_STOPB=¡Stop al Bullying!
+badge_desc_STOPB=Di no al Bullying y al Cyberbullying
+badge_name_GAM107=El mejor genero
+badge_desc_GAM107=Fui de los mejores defendiendo mi genero
+badge_name_GAM108=Caminando con peligro
+badge_desc_GAM108=Camine sin ser pillado ¿y tú?
+badge_name_GAM109=¡Battle balls!
+badge_desc_GAM109=Superé la batalla de las bolas
+badge_name_GAM110=Sexto sentido
+badge_desc_GAM110=Tengo una vision más allá de lo normal
+
+
+
+
+
+

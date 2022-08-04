@@ -1,0 +1,53 @@
+badge_name_GAM125=¡Escapa de la montaña!
+badge_desc_GAM125=He sido uno de los sobrevientes
+
+badge_name_GAM126=¡Se acabo el papel!
+badge_desc_GAM126=Justo en el momento, tuve que ir por uno
+
+badge_name_GAM127=¡En giros por aquí, y por allá!
+badge_desc_GAM127=¿Cuál era el port correcto?
+
+badge_name_GAM128=¡Torneo de Banzai!
+badge_desc_GAM128=Fui quien pintó las casillas primero
+
+badge_name_GAM129=¡Mi Consola!
+badge_desc_GAM129=¡Tengo la mejor consola!
+
+badge_name_GAM130=¡Matemáticas!
+badge_desc_GAM130=¡¿Matematicas?!, ¡Soy el mejor!
+
+badge_name_GAM131=Numero 732
+badge_desc_GAM131=Ese es mi número...
+
+badge_name_GAM132=Team Wars
+badge_desc_GAM132=¡Mi equipo y yo somos los mejores!
+
+badge_name_GAM133=¡El regalo de amor!
+badge_desc_GAM133=¡Hice el mejor regalo, y lo entregue a tiempo a mi amig@!
+
+badge_name_GAM134=Pacuas 2015
+badge_desc_GAM134=¡Estas pascuas las he pasado fenomenal!
+
+badge_name_GAM135=Misión imposible
+badge_desc_GAM135=¡Yo la he completado! ¿Y tú?
+
+badge_name_GAM136=Race for colors
+badge_desc_GAM136=¡He ganado la carrera! ¿Y tú?
+
+badge_name_GAM137=Carrera sobre obstáculos
+badge_desc_GAM137=¡He pasado todos los obstáculos! 
+
+badge_name_CEVPRI=El arcoíris
+badge_desc_CEVPRI=Mi CEV fue el mejor
+
+badge_name_IT837=Castillo primaveral
+badge_desc_IT837=¡El mio es el más bonito de hotel!
+
+badge_name_WAN20=Dulces & Flores
+badge_desc_WAN20=¡Es primavera! 
+
+badge_name_WAN21=¡Sweet!
+badge_desc_WAN21=¡Sí, la primavera lo es!
+
+badge_name_CEVC=¡Hermoso Pixel Art!
+badge_desc_CEVC=Yo lo he hecho y fue grandioso

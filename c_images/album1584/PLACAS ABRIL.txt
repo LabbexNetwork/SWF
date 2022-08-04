@@ -1,0 +1,77 @@
+badge_name_HMV05=El barco se hundió
+badge_desc_HMV05=Pero encontre el camino de vuelta a casa
+
+badge_name_HMV06=¡Gritalo!
+badge_desc_HMV06=He gritado todo lo que sabia
+
+badge_name_HMV07=¿Rápido?
+badge_desc_HMV07=Me siento el más rápido de todos
+
+badge_name_HMV08=Copiando lo que copian
+badge_desc_HMV08=Soy el mejor haciendo :copy
+
+badge_name_HMV09=Zana o kick
+badge_desc_HMV09=He ganado un clásico de Hobba
+
+badge_name_HMV010=Camino de pod's
+badge_desc_HMV010=He llegado de primero sin caer en las trampas
+
+badge_name_HMV011=La guerra de los géneros
+badge_desc_HMV011=¿Ganan las chicas o los chicos?
+
+badge_name_HMV012=Ahogalo
+badge_desc_HMV012=He ahogado a todos mis contricantes
+
+badge_name_CPDD=Parque de diversiones
+badge_desc_CPDD=¡El mio ha sido el mejor!
+
+badge_name_WRS1=Fiel seguidor de Hobba
+badge_desc_WRS1=¡Yo sigo a Hobba hasta en las Redes Sociales!
+
+badge_name_HRSW=Head RS
+badge_desc_HRSW=Yo me encargo del equipo de Redes Sociales
+
+badge_name_HDJI=Head DJ
+badge_desc_HDJI=Me encargo del equipo DJ
+
+badge_name_VAMP0=Katy Perry
+badge_desc_VAMP0=¡Yo asistí al Especial de Katy Perry!
+
+badge_name_B3CK4CEV=Caramelos
+badge_desc_B3CK4CEV=Mi mundo dulce es el mejor
+
+badge_name_B3CK4CEV1=Shalimar
+badge_desc_B3CK4CEV1=Yo soy el mejor usandolos
+
+badge_name_B3CK414=Roulette Colors
+badge_desc_B3CK414=Sobrevivi a los colores de la ruleta
+
+badge_name_B3CK4151=Rose race
+badge_desc_B3CK4151=Le gane a mi contrincante
+
+badge_name_B3CK4152=Rose race
+badge_desc_B3CK4152=Le gane a mi contrincante
+
+badge_name_B3CK4CEV2=Canchas
+badge_desc_B3CK4CEV2=Juega en las mias, son las mejores
+
+badge_name_B3CK4CEV3=Floreria
+badge_desc_B3CK4CEV3=Mmmm que hermoso huele
+
+badge_name_B3CK4CEV4=Boutique
+badge_desc_B3CK4CEV4=En la mia encuentras lo mejor
+
+badge_name_B3CK4CEV5=Bosque
+badge_desc_B3CK4CEV5=¡Ahh! Un descanso en el bosque
+
+badge_name_NECEV=[CEV] Nave espacial
+badge_desc_NECEV=¡La más se resaltante fue la mia!
+
+badge_name_SCCEV=[CEV] Salón de clases
+badge_desc_SCCEV=Mi salón es el mejor para estudiar
+
+badge_name_ACCEV=[CEV] Mi autocine
+badge_desc_ACCEV=¡El mio fue el más creativo!
+
+badge_name_BR714C=Central Primaveral
+badge_desc_BR714C=¡Yo celebré su inauguración por todo lo alto!

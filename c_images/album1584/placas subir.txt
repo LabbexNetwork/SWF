@@ -1,0 +1,8 @@
+badge_name_UK396=Lucky Numbers
+badge_desc_UK396=¡Yo tengo los números de la suerte!
+
+badge_name_PUBLP= Oleada Oficial
+badge_desc_PUBLP=¡Yo participé en una oleada en el mes de halloween!
+
+badge_name_WINPU= Publicidad creativa
+badge_desc_WINPU=¡He ganado un evento creativo de los publicistas!

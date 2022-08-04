@@ -1,0 +1,3 @@
+badge_name_RC=Róbate el café
+
+badge_desc_RC=Soy el mejor burlando a los guías
